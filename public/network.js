@@ -106,7 +106,7 @@ class Network{
 
 }
 
-myBPold(l,n,w,a,x,y){
+const myBPold = (l,n,w,a,x,y) => {
 		let dve = 0
 		//console.log('Nm',l,n,w,a,x,y,dve)
 			//console.log('bp',l,n,w,a,x,y)

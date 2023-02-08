@@ -1,4 +1,4 @@
-iconsole.log('perceive')
+console.log('perceive')
 class Perceptron{
 	constructor({inputSize= 2, activation,weights=[]}={}){
 		this.inputSize = inputSize
