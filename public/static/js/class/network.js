@@ -163,3 +163,4 @@ const myBPold = (l,n,w,a,x,y) => {
 
 //wljk += -dd*alpha
 */
+export default Network;
